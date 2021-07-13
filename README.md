@@ -32,3 +32,7 @@ Here's a brief version of columns in the Dataframe.
 * **mean_motion** : The angular speed required for a body to make one orbit around an ideal ellipse with a specific semi-major axis.
 * **equinox** : An astronomical standard to measure against.
 * **hazardous** : Is the asteroid hazardous? or not?
+
+<h3> Acknowledgements</h3
+
+Data-set: All the data is from the (http://neo.jpl.nasa.gov/). This API is maintained by SpaceRocks Team: David Greenfield, Arezu Sarvestani, Jason English and Peter Baunach.
